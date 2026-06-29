@@ -64,7 +64,7 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/sharmaharshul869-max
+- GitHub: https://github-readme-stats.vercel.app/api?username= sharmaharshul869-max
 - LinkedIn: add your link here 
 
 ---
