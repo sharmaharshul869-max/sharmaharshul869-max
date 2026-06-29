@@ -32,10 +32,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
-### 🌐 Web Basics
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+
 
 ---
 
@@ -67,8 +64,8 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: add your link here
+- GitHub: https://github.com/sharmaharshul
+- LinkedIn: add your link here 
 
 ---
 
